@@ -1,2 +1,0 @@
-three categories : pieces "AND", "OR" and defects. 
-Verdict waited.
