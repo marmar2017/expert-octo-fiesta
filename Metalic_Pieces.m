@@ -5,7 +5,7 @@ close all
 clc
 
 % read the path 
-path = pwd;
+path = path = ".../Image";;
 path = strcat(path,'\');
 
 for i=1:21    
